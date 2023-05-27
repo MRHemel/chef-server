@@ -1,0 +1,82 @@
+[
+    {
+        "chef_id": "1",
+        "chef_picture": "https://example.com/chef1_picture.jpg",
+        "chef_name": "Chef 1",
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": 100
+    },
+    {
+        "chef_id": "2",
+        "chef_picture": "https://example.com/chef2_picture.jpg",
+        "chef_name": "Chef 2",
+        "years_of_experience": 8,
+        "num_recipes": 15,
+        "likes": 75
+    },
+    {
+        "chef_id": "3",
+        "chef_picture": "https://example.com/chef3_picture.jpg",
+        "chef_name": "Chef 3",
+        "years_of_experience": 3,
+        "num_recipes": 12,
+        "likes": 60
+    },
+    {
+        "chef_id": "4",
+        "chef_picture": "https://example.com/chef4_picture.jpg",
+        "chef_name": "Chef 4",
+        "years_of_experience": 12,
+        "num_recipes": 50,
+        "likes": 200
+    },
+    {
+        "chef_id": "5",
+        "chef_picture": "https://example.com/chef5_picture.jpg",
+        "chef_name": "Chef 5",
+        "years_of_experience": 2,
+        "num_recipes": 8,
+        "likes": 30
+    },
+    {
+        "chef_id": "6",
+        "chef_picture": "https://example.com/chef6_picture.jpg",
+        "chef_name": "Chef 6",
+        "years_of_experience": 6,
+        "num_recipes": 25,
+        "likes": 150
+    },
+    {
+        "chef_id": "7",
+        "chef_picture": "https://example.com/chef7_picture.jpg",
+        "chef_name": "Chef 7",
+        "years_of_experience": 4,
+        "num_recipes": 18,
+        "likes": 90
+    },
+    {
+        "chef_id": "8",
+        "chef_picture": "https://example.com/chef8_picture.jpg",
+        "chef_name": "Chef 8",
+        "years_of_experience": 9,
+        "num_recipes": 35,
+        "likes": 180
+    },
+    {
+        "chef_id": "9",
+        "chef_picture": "https://example.com/chef9_picture.jpg",
+        "chef_name": "Chef 9",
+        "years_of_experience": 7,
+        "num_recipes": 30,
+        "likes": 120
+    },
+    {
+        "chef_id": "10",
+        "chef_picture": "https://example.com/chef10_picture.jpg",
+        "chef_name": "Chef 10",
+        "years_of_experience": 11,
+        "num_recipes": 40,
+        "likes": 250
+    }
+]
