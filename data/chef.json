@@ -1,7 +1,7 @@
 [
     {
         "chef_id": "1",
-        "chef_picture": "https://example.com/chef1_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
         "chef_name": "Chef 1",
         "years_of_experience": 5,
         "num_recipes": 20,
@@ -9,7 +9,7 @@
     },
     {
         "chef_id": "2",
-        "chef_picture": "https://example.com/chef2_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1685211100~exp=1685211700~hmac=5c7047e9c5bf0726ee63dca44baa68de416ac2d74a951d6e7a0ddf4d5b71aac1",
         "chef_name": "Chef 2",
         "years_of_experience": 8,
         "num_recipes": 15,
@@ -17,7 +17,7 @@
     },
     {
         "chef_id": "3",
-        "chef_picture": "https://example.com/chef3_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
         "chef_name": "Chef 3",
         "years_of_experience": 3,
         "num_recipes": 12,
@@ -25,7 +25,7 @@
     },
     {
         "chef_id": "4",
-        "chef_picture": "https://example.com/chef4_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1685211100~exp=1685211700~hmac=5c7047e9c5bf0726ee63dca44baa68de416ac2d74a951d6e7a0ddf4d5b71aac1",
         "chef_name": "Chef 4",
         "years_of_experience": 12,
         "num_recipes": 50,
@@ -33,7 +33,7 @@
     },
     {
         "chef_id": "5",
-        "chef_picture": "https://example.com/chef5_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
         "chef_name": "Chef 5",
         "years_of_experience": 2,
         "num_recipes": 8,
@@ -41,7 +41,7 @@
     },
     {
         "chef_id": "6",
-        "chef_picture": "https://example.com/chef6_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
         "chef_name": "Chef 6",
         "years_of_experience": 6,
         "num_recipes": 25,
@@ -49,7 +49,7 @@
     },
     {
         "chef_id": "7",
-        "chef_picture": "https://example.com/chef7_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
         "chef_name": "Chef 7",
         "years_of_experience": 4,
         "num_recipes": 18,
@@ -57,7 +57,7 @@
     },
     {
         "chef_id": "8",
-        "chef_picture": "https://example.com/chef8_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
         "chef_name": "Chef 8",
         "years_of_experience": 9,
         "num_recipes": 35,
@@ -65,7 +65,7 @@
     },
     {
         "chef_id": "9",
-        "chef_picture": "https://example.com/chef9_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
         "chef_name": "Chef 9",
         "years_of_experience": 7,
         "num_recipes": 30,
@@ -73,7 +73,7 @@
     },
     {
         "chef_id": "10",
-        "chef_picture": "https://example.com/chef10_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
         "chef_name": "Chef 10",
         "years_of_experience": 11,
         "num_recipes": 40,

@@ -1,0 +1,97 @@
+[
+  {
+    "chef_id": "1",
+    "chef_picture": "https://example.com/chef1_picture.jpg",
+    "chef_name": "Chef 1",
+    "chef_description": "Experienced chef specialized in Italian cuisine.",
+    "years_of_experience": 5,
+    "num_recipes": 20,
+    "likes": 100,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe1_photo.jpg",
+        "recipe_name": "Spaghetti Carbonara"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe2_photo.jpg",
+        "recipe_name": "Margherita Pizza"
+      }
+    ]
+  },
+  {
+    "chef_id": "2",
+    "chef_picture": "https://example.com/chef2_picture.jpg",
+    "chef_name": "Chef 2",
+    "chef_description": "Passionate chef specializing in French cuisine.",
+    "years_of_experience": 8,
+    "num_recipes": 15,
+    "likes": 75,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe3_photo.jpg",
+        "recipe_name": "Beef Bourguignon"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe4_photo.jpg",
+        "recipe_name": "Crème Brûlée"
+      }
+    ]
+  },
+  {
+    "chef_id": "3",
+    "chef_picture": "https://example.com/chef3_picture.jpg",
+    "chef_name": "Chef 3",
+    "chef_description": "Expert chef specializing in Japanese cuisine.",
+    "years_of_experience": 10,
+    "num_recipes": 30,
+    "likes": 120,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe5_photo.jpg",
+        "recipe_name": "Sushi Rolls"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe6_photo.jpg",
+        "recipe_name": "Miso Soup"
+      }
+    ]
+  },
+  {
+    "chef_id": "4",
+    "chef_picture": "https://example.com/chef4_picture.jpg",
+    "chef_name": "Chef 4",
+    "chef_description": "Talented chef specializing in Mexican cuisine.",
+    "years_of_experience": 6,
+    "num_recipes": 25,
+    "likes": 150,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe7_photo.jpg",
+        "recipe_name": "Tacos Al Pastor"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe8_photo.jpg",
+        "recipe_name": "Guacamole"
+      }
+    ]
+  },
+  {
+    "chef_id": "5",
+    "chef_picture": "https://example.com/chef5_picture.jpg",
+    "chef_name": "Chef 5",
+    "chef_description": "Creative chef specializing in fusion cuisine.",
+    "years_of_experience": 3,
+    "num_recipes": 12,
+    "likes": 60,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe9_photo.jpg",
+        "recipe_name": "Sushi Burrito"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe10_photo.jpg",
+        "recipe_name": "Kimchi Tacos"
+      }
+    ]
+  }
+]
