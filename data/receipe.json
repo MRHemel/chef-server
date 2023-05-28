@@ -1,7 +1,7 @@
 [
   {
     "chef_id": "1",
-    "chef_picture": "https://example.com/chef1_picture.jpg",
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
     "chef_name": "Chef 1",
     "chef_description": "Experienced chef specialized in Italian cuisine.",
     "years_of_experience": 5,
@@ -9,18 +9,22 @@
     "likes": 100,
     "recipes": [
       {
-        "recipe_photo": "https://example.com/recipe1_photo.jpg",
+        "recipe_photo": "https://img.freepik.com/free-photo/spaghetti-with-mixed-ingredients-white-plate_114579-15091.jpg?w=996&t=st=1685223300~exp=1685223900~hmac=67a38506fe3105cc61127ef7021765f67b4c4315028a9729aa29996c22bcc66e",
         "recipe_name": "Spaghetti Carbonara"
       },
       {
-        "recipe_photo": "https://example.com/recipe2_photo.jpg",
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
         "recipe_name": "Margherita Pizza"
       }
     ]
   },
   {
     "chef_id": "2",
-    "chef_picture": "https://example.com/chef2_picture.jpg",
+    "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1685211100~exp=1685211700~hmac=5c7047e9c5bf0726ee63dca44baa68de416ac2d74a951d6e7a0ddf4d5b71aac1",
     "chef_name": "Chef 2",
     "chef_description": "Passionate chef specializing in French cuisine.",
     "years_of_experience": 8,
@@ -28,18 +32,22 @@
     "likes": 75,
     "recipes": [
       {
-        "recipe_photo": "https://example.com/recipe3_photo.jpg",
+        "recipe_photo": "https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19707.jpg?w=996&t=st=1685263544~exp=1685264144~hmac=a3cebcf123b021bdbbea157eef47aeac3ab835eb7df586e33eec61b71fb504ca",
         "recipe_name": "Beef Bourguignon"
       },
       {
-        "recipe_photo": "https://example.com/recipe4_photo.jpg",
+        "recipe_photo": "https://img.freepik.com/free-photo/caramel-custard-white-dish-popular-dessert-cafe_1428-99.jpg?w=996&t=st=1685263579~exp=1685264179~hmac=5959feabd828d3ce24383a0825e8d2c6be6ffdbcb0af621d8ef273e4333f5ea7",
         "recipe_name": "Crème Brûlée"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
       }
     ]
   },
   {
     "chef_id": "3",
-    "chef_picture": "https://example.com/chef3_picture.jpg",
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
     "chef_name": "Chef 3",
     "chef_description": "Expert chef specializing in Japanese cuisine.",
     "years_of_experience": 10,
@@ -47,18 +55,22 @@
     "likes": 120,
     "recipes": [
       {
-        "recipe_photo": "https://example.com/recipe5_photo.jpg",
+        "recipe_photo": "https://img.freepik.com/free-photo/side-view-mix-sushi-rolls-tray-with-ginger-wasabi_141793-14242.jpg?w=996&t=st=1685263623~exp=1685264223~hmac=9834fa5ab55d9cdbee0b99cf664125caad298188f01b6167c4575c1413e69736",
         "recipe_name": "Sushi Rolls"
       },
       {
-        "recipe_photo": "https://example.com/recipe6_photo.jpg",
+        "recipe_photo": "https://img.freepik.com/free-photo/miso-soup-with-mushrooms-table_140725-5328.jpg?w=740&t=st=1685263651~exp=1685264251~hmac=d20f32cd02f9cc3f9bfae6e9287b98499532eb53c6dbaefb3bafeefd7a964d29",
         "recipe_name": "Miso Soup"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
       }
     ]
   },
   {
     "chef_id": "4",
-    "chef_picture": "https://example.com/chef4_picture.jpg",
+    "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=996&t=st=1685211100~exp=1685211700~hmac=5c7047e9c5bf0726ee63dca44baa68de416ac2d74a951d6e7a0ddf4d5b71aac1",
     "chef_name": "Chef 4",
     "chef_description": "Talented chef specializing in Mexican cuisine.",
     "years_of_experience": 6,
@@ -72,12 +84,16 @@
       {
         "recipe_photo": "https://example.com/recipe8_photo.jpg",
         "recipe_name": "Guacamole"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
       }
     ]
   },
   {
     "chef_id": "5",
-    "chef_picture": "https://example.com/chef5_picture.jpg",
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
     "chef_name": "Chef 5",
     "chef_description": "Creative chef specializing in fusion cuisine.",
     "years_of_experience": 3,
@@ -91,6 +107,125 @@
       {
         "recipe_photo": "https://example.com/recipe10_photo.jpg",
         "recipe_name": "Kimchi Tacos"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
+      }
+    ]
+  },
+  {
+    "chef_id": "6",
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
+    "chef_name": "Chef 2",
+    "chef_description": "Passionate chef specializing in French cuisine.",
+    "years_of_experience": 8,
+    "num_recipes": 15,
+    "likes": 75,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe3_photo.jpg",
+        "recipe_name": "Beef Bourguignon"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe4_photo.jpg",
+        "recipe_name": "Crème Brûlée"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
+      }
+    ]
+  },
+  {
+    "chef_id": "7",
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
+    "chef_name": "Chef 2",
+    "chef_description": "Passionate chef specializing in French cuisine.",
+    "years_of_experience": 8,
+    "num_recipes": 15,
+    "likes": 75,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe3_photo.jpg",
+        "recipe_name": "Beef Bourguignon"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe4_photo.jpg",
+        "recipe_name": "Crème Brûlée"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
+      }
+    ]
+  },
+  {
+    "chef_id": "8",
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
+    "chef_name": "Chef 2",
+    "chef_description": "Passionate chef specializing in French cuisine.",
+    "years_of_experience": 8,
+    "num_recipes": 15,
+    "likes": 75,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe3_photo.jpg",
+        "recipe_name": "Beef Bourguignon"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe4_photo.jpg",
+        "recipe_name": "Crème Brûlée"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
+      }
+    ]
+  },
+  {
+    "chef_id": "9",
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
+    "chef_name": "Chef 2",
+    "chef_description": "Passionate chef specializing in French cuisine.",
+    "years_of_experience": 8,
+    "num_recipes": 15,
+    "likes": 75,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe3_photo.jpg",
+        "recipe_name": "Beef Bourguignon"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe4_photo.jpg",
+        "recipe_name": "Crème Brûlée"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
+      }
+    ]
+  },
+  {
+    "chef_id": "10",
+    "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=996&t=st=1685211006~exp=1685211606~hmac=ebb4f97bb05f927e879da261a8e692f03409bcff7c2a2e9d549f6e5e250d8c6b",
+    "chef_name": "Chef 2",
+    "chef_description": "Passionate chef specializing in French cuisine.",
+    "years_of_experience": 8,
+    "num_recipes": 15,
+    "likes": 75,
+    "recipes": [
+      {
+        "recipe_photo": "https://example.com/recipe3_photo.jpg",
+        "recipe_name": "Beef Bourguignon"
+      },
+      {
+        "recipe_photo": "https://example.com/recipe4_photo.jpg",
+        "recipe_name": "Crème Brûlée"
+      },
+      {
+        "recipe_photo": "https://img.freepik.com/free-photo/pizza-time-tasty-homemade-traditional-pizza-italian-recipe_144627-42535.jpg?w=996&t=st=1685223332~exp=1685223932~hmac=80015fce08a095a26f06bd347738e976daca1a29411733fae7680aa4587e6ffa",
+        "recipe_name": "Margherita Pizza"
       }
     ]
   }

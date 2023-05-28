@@ -17,13 +17,13 @@ app.get('/chef', (req, res) => {
     res.send(chef);
 })
 
-app.get('/recipe', (req, res) => {
+app.get('/', (req, res) => {
     res.send(recipe);
 })
 
 app.get('/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id);
+    // console.log(id);
     const selectedChef = recipe.find(r => r.chef_id === id)
     res.send(selectedChef)
 })
